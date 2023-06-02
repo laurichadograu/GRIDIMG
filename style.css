@@ -1,0 +1,13 @@
+
+
+.div-todasimagens{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.imagem{
+    width: 300px;
+}
+
+.titulo{
+    color: aquamarine;
+}
